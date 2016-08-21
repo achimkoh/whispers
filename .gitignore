@@ -38,15 +38,10 @@ bin/*
 *.perspectivev3
 *.mode1v3
 *.mode2v3
-*.xcconfig
-*.xcodeproj
-whispers.xcodeproj/*
 
 #XCode 4
 xcuserdata
 *.xcworkspace
-
-
 
 #OSX
 .DS_Store
@@ -54,3 +49,5 @@ xcuserdata
 *~.nib
 # Thumbnails
 ._*
+*.lock
+
